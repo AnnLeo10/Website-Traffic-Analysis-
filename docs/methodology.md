@@ -22,5 +22,3 @@
 - Cart Abandonment: percentage of cart-reaching sessions that did not purchase.
 - Checkout Abandonment: percentage of checkout-reaching sessions that did not purchase.
 
-## Important Interpretation Note
-These definitions are project-specific analytical definitions and should not be assumed to be identical to metrics in Google Analytics or another production analytics platform.
